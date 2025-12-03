@@ -2,6 +2,7 @@
 
 A sophisticated multi-agent AI system for processing real-time financial news, eliminating redundancy, extracting market entities, and providing context-aware query responses for traders and investors.
 
+Video : https://drive.google.com/file/d/1Nk1W9Z51IRNhbmL8lQQy2c4Vcxm3VWnL/view?usp=sharing
 ## 📋 Features
 
 ### Core Capabilities
