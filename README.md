@@ -8,7 +8,8 @@ Backend : https://finsight-ai-5kmh.onrender.com
 
 Frontend : https://nitij-taneja-finsight-ai-streamlit-app-grxwtf.streamlit.app/
 
-Video : https://drive.google.com/file/d/1Nk1W9Z51IRNhbmL8lQQy2c4Vcxm3VWnL/view?usp=sharing
+Video : https://youtu.be/b_bzwaWgW90?si=bbQ4ZJikrheW649l
+
 ## 📋 Features
 
 ### Core Capabilities
