@@ -1,6 +1,6 @@
 # 🚀 AI-Powered Financial News Intelligence System
 
-![Demo](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
+![Demo](https://github.com/nitij-taneja/FinSight-AI/blob/main/README.md%20-%20llama_fastapi_app%20-%20Visual%20Studio%20Code%202025-12-03%2012-41-25%20(online-video-cutter.com).gif)
 
 A sophisticated multi-agent AI system for processing real-time financial news, eliminating redundancy, extracting market entities, and providing context-aware query responses for traders and investors.
 
