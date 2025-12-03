@@ -1,5 +1,7 @@
 # 🚀 AI-Powered Financial News Intelligence System
 
+![Demo](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
+
 A sophisticated multi-agent AI system for processing real-time financial news, eliminating redundancy, extracting market entities, and providing context-aware query responses for traders and investors.
 
 Video : https://drive.google.com/file/d/1Nk1W9Z51IRNhbmL8lQQy2c4Vcxm3VWnL/view?usp=sharing
