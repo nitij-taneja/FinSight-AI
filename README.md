@@ -4,6 +4,10 @@
 
 A sophisticated multi-agent AI system for processing real-time financial news, eliminating redundancy, extracting market entities, and providing context-aware query responses for traders and investors.
 
+Backend : https://finsight-ai-5kmh.onrender.com
+
+Frontend : https://nitij-taneja-finsight-ai-streamlit-app-grxwtf.streamlit.app/
+
 Video : https://drive.google.com/file/d/1Nk1W9Z51IRNhbmL8lQQy2c4Vcxm3VWnL/view?usp=sharing
 ## 📋 Features
 
