@@ -504,7 +504,7 @@ Contributions are welcome! Please:
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: support@example.com
+- Contact: tanejanitij4002@gmail.com
 
 ## 🎓 References
 
